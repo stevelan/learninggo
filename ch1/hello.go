@@ -1,7 +1,8 @@
-package main
+package ch1
 
 import "fmt"
 
-func main() {
+// Hello function
+func Hello() {
 	fmt.Println("Hello, world!")
 }
