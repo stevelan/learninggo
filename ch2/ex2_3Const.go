@@ -10,7 +10,7 @@ const (
 
 const z = 20 * 10
 
-//Ex2_3Const p30
+// Ex2_3Const p30
 func Ex2_3Const() {
 	const y = "hello"
 

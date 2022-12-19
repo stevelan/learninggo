@@ -18,6 +18,10 @@ func main() {
 	call(ch2.Ex2_2NumericTypeConversion)
 	call(ch2.Ex2_3Const)
 	call(ch3.Ex3_1SliceCapacity)
+	call(ch3.CommonMistakeMakeAppend)
+	call(ch3.Ex3_2NilSlice)
+	call(ch3.Ex3_3DefaultValuedSlice)
+	call(ch3.Ex3_4SlicingSlices)
 }
 
 func call(ex example) {
